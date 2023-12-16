@@ -16,8 +16,10 @@ Sou Anderson Antunes, um estudante dedicado ao campo da Segurança Cibernética 
 - 🖥️ **Desenvolvimento de Software**: Transformando ideias inovadoras em código funcional
 - 💻 **Teste de Penetração**: Explorando incansavelmente o inexplorado
 
-## Estatísticas do GitHub 📊
+## Habilidades Principais 💼
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andersonantunes&show_icons=true&count_private=true)
+- **Segurança Cibernética**
+- **Desenvolvimento de Software em Diversas Linguagens**
+- **Teste de Penetração e Análise de Vulnerabilidades**
+- **Trabalho em Equipe e Comunicação Eficaz**
 
-Que esta jornada acadêmica na esfera da tecnologia e da Segurança Cibernética seja não apenas estimulante, mas também repleta de descobertas e realizações marcantes. 🌐👨‍💻
